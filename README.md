@@ -1,9 +1,9 @@
 # Compression-Using-PYNQ-Z1
 
-##### Overview
+### Overview
 
 
-##### Team Members:
+#### Team Members:
 
   1. Christine Duong: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
   
@@ -17,3 +17,6 @@
   
   6. Ryan Toeung: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
+#### Supervising Professor:
+
+**Mohamed El-Hadedy**: Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.

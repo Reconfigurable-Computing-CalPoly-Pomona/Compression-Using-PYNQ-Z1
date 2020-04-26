@@ -24,9 +24,10 @@
 **What is H.264 Video Compression**
 
 Summary of H.264
-	Endcoding:
+
+Encoding:
 	
-	Decoding:
+Decoding:
 
 <p align="center">
 <img src=https://github.com/Reconfigurable-Computing-CalPoly-Pomona/Compression-Using-PYNQ-Z1/blob/master/Source%20Code/Images/Flow.png>

@@ -41,7 +41,7 @@ The decoder is the second and final step when it comes to H.264 video compressio
 
 **Tutorial**
 
-1. To access the PYNQ files on board via USB:
+1. **To access the PYNQ files on board via USB:**
    - Open File Explorer
    - Type the following into the address bar
      - \\pynq\xilinx\openh264
@@ -51,7 +51,7 @@ The decoder is the second and final step when it comes to H.264 video compressio
      - Note: These files can not be changed from here. Only modifiable through PuTTY.
 
 
-2. Changing the parameters for your video to be compressed (Simplest form).
+2. **Changing the parameters for your video to be compressed (Simplest form).**
    - Files that need to be changed:
      - CmdLineExample.sh
        - This needs to have the proper file name within to run.
@@ -68,7 +68,7 @@ The decoder is the second and final step when it comes to H.264 video compressio
          - FPS Output
    - Once these files are changed to the proper settings then you can proceed to the testing.
 
-3. To begin Testing
+3. **To begin Testing**
    - Install and Open PUTTY
      - First Identify what port your PYNQ is plugged into on the PC
      - Place your COM# and the data rate to 115200
@@ -85,7 +85,7 @@ The decoder is the second and final step when it comes to H.264 video compressio
      - ./filename.sh
    - After running the script, you will see a readout of the success of the encoder or decoder.
 
-4. Troubleshooting Errors
+4. **Troubleshooting Errors**
    - Wrong Input File Type
      - Make sure that the video file is .YUV for this encoder.
    - Permission Denied

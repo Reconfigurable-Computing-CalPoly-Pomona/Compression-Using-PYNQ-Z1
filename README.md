@@ -23,13 +23,11 @@
 
 **What is H.264 Video Compression**
 
-Summary of H.264
-
-Encoding –
+**Encoding** –
 
 When running through H.264 video compression, the video first must start out by running through an encoder. The encoder phase has three different states. Initially, the original video has to be passed into the encoder. The encoder would then run through a prediction process and then get transformed. Ultimately, after getting transformed, the encoder would then produce an encoded, compressed H.264 bitstream that would be allowed to be passed onto the decoder.
 
-Decoding – 
+**Decoding** – 
 
 The decoder is the second and final step when it comes to H.264 video compression. After the process of running through the encoder has been completed, the compressed video is ready for decoding. The decoder, similar to the encoder, also has three stages. First off, the compressed video bitstream has to be passed into the decoder. Once the decoder has received the bitstream, then an inverse transformation process will occur. Lastly, the video will then get reconstructed and then produce a compressed, H.264 video.
 

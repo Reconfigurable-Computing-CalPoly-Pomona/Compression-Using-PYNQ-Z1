@@ -72,21 +72,20 @@ The decoder is the second and final step when it comes to H.264 video compressio
    - Install and Open PUTTY
      - First Identify what port your PYNQ is plugged into on the PC
      - Place your COM# and the data rate to 115200
-      - You can find your device port in your device manager if on windows
+       - You can find your device port in your device manager if on windows
      - Make sure the board is powered on and then hit start on PuTTY
    - The board will boot in the PUTTY command prompt.
    - Change directory to the folder …/openh264/testbin
    - Inside the testbin folder you will find the script CmdLineExample.sh
-    - This is the file that will run the test.
-     - You can look inside and edit the files within here to run encoder and decoder.
-     - Inside the files in this script that it is saying to run you can edit those to change many aspects of the encoder.
+     - This is the file that will run the test.
+       - You can look inside and edit the files within here to run encoder and decoder.
+       - Inside the files in this script that it is saying to run you can edit those to change many aspects of the encoder.
    - You can run the .sh files in PuTTY with the following commands:
-    - sh filename.sh
-    - ./filename.sh
+     - sh filename.sh
+     - ./filename.sh
+   - After running the script, you will see a readout of the success of the encoder or decoder.
 
-4. After running the script, you will see a readout of the success of the encoder or decoder.
-
-5. Troubleshooting Errors
+4. Troubleshooting Errors
    - Wrong Input File Type
      - Make sure that the video file is .YUV for this encoder.
    - Permission Denied

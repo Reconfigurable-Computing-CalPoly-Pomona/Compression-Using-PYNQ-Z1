@@ -42,13 +42,21 @@ The decoder is the second and final step when it comes to H.264 video compressio
 **Tutorial**
 
 1. To access the PYNQ files on board via USB:
+
   1. Open File Explorer
+
   2. Type the following into the address bar
+
     1. \\pynq\xilinx\openh264
+
     2. Username : xilinx
+
     3. Password : xilinx
+
     4. This is the file directory that you can see the files that are on the PYNQ that we have built.
+
     5. Note: These files can not be changed from here. Only modifiable through PuTTY.
+
 
 1. Changing the parameters for your video to be compressed (Simplest form).
   1. Files that need to be changed:

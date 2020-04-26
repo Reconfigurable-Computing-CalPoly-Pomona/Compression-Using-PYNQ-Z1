@@ -22,9 +22,13 @@
 **Mohamed El-Hadedy**: Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
 **What is H.264 Video Compression**
+Summary of H.264
+	Endcoding:
+	
+	Decoding:
 
 <p align="center">
 <img src=https://github.com/Reconfigurable-Computing-CalPoly-Pomona/Compression-Using-PYNQ-Z1/blob/master/Source%20Code/Images/Flow.png>
-															     
+														     
 	Figure 1: Flow Chart for H.264
 </p>

@@ -51,22 +51,22 @@ The decoder is the second and final step when it comes to H.264 video compressio
      - Note: These files can not be changed from here. Only modifiable through PuTTY.
 
 
-1. Changing the parameters for your video to be compressed (Simplest form).
-  1. Files that need to be changed:
-    1. sh
-      1. This needs to have the proper file name within to run.
-        1. We use welsenc\_vd\_1d.cfg
-    2. The file welsenc\_vd\_1d.cfg
-      1. This needs to have the proper resolution in it.
-      2. This contains the videos FPS Maximum.
-      3. This contains the bitrate of the encode max and target.
-      4. This contains the name of the layer definition file used
-        1. We use layer2\_vd.cfg
-    3. The file layer2\_vd.cfg
-      1. Inside here you need to change
-        1. Resolution
-        2. FPS Output
-  2. Once these files are changed to the proper settings then you can proceed to the testing.
+2. Changing the parameters for your video to be compressed (Simplest form).
+   - Files that need to be changed:
+     - CmdLineExample.sh
+       - This needs to have the proper file name within to run.
+         - We use welsenc\_vd\_1d.cfg
+     - The file welsenc\_vd\_1d.cfg
+       - This needs to have the proper resolution in it.
+       - This contains the videos FPS Maximum.
+       - This contains the bitrate of the encode max and target.
+       - This contains the name of the layer definition file used
+         - We use layer2\_vd.cfg
+     - The file layer2\_vd.cfg
+       - Inside here you need to change
+         - Resolution
+         - FPS Output
+  - Once these files are changed to the proper settings then you can proceed to the testing.
 
 1. To begin Testing
   1. Install and Open PUTTY

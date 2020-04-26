@@ -23,3 +23,8 @@
 
 **What is H.264 Video Compression**
 
+<p align="center">
+<img src=https://github.com/Reconfigurable-Computing-CalPoly-Pomona/Compression-Using-PYNQ-Z1/tree/master/Source%20Code>
+															     
+	Figure 1: Flow Chart for H.264
+</p>

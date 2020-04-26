@@ -20,3 +20,5 @@
 #### Supervising Professor:
 
 **Mohamed El-Hadedy**: Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+
+**What is H.264 Video Compression**

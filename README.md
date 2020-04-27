@@ -101,3 +101,8 @@ The decoder is the second and final step when it comes to H.264 video compressio
        - ls -l (these are lowercase L)
        - you will see a string of letters -rwxrwxrwx that have the permissions of read write and execute on each file. Look up online if you are unsure of what the string means.
      - If this fails, then you can also change ownership of certain files to be xilinx to make the permissions easier to give.
+
+**Current State and Future Plans**
+
+The current state of the project is the Open H.264 video compression is installed on the ARM processor on the Xilinx PYNQ-Z1 FPGA board. The team successfully completed the encoding of multiple .YUV video files. We tested each of them for different parameters such as bitrate, FPS, resolution, and many others. The future we would like to compare the PYNQ-Z1 with the Raspberry Pi 4 to see how they compare to one another in terms of performance. Once that is done, we would be able to use the on-board FPGA from the PYNQ to do an overlay architecture to attempt to speed up the PYNQs time for compression. Due to the COVID-19 we were unable to gather the necessary parts in time to complete this.  
+

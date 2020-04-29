@@ -105,7 +105,8 @@ The decoder is the second and final step when it comes to H.264 video compressio
 
 The current state of the project is the Open H.264 video compression is installed on the ARM processor on the Xilinx PYNQ-Z1 FPGA board. The team successfully completed the encoding of multiple .YUV video files. We tested each of them for different parameters such as bitrate, FPS, resolution, and many others. The future we would like to compare the PYNQ-Z1 with the Raspberry Pi 4 to see how they compare to one another in terms of performance. Once that is done, we would be able to use the on-board FPGA from the PYNQ to do an overlay architecture to attempt to speed up the PYNQs time for compression. Due to the COVID-19 we were unable to gather the necessary parts in time to complete this.  
 
-**Project Sponsor:**
-
+**Project Sponsors:**
 
 [Xilinx Inc.](https://www.xilinx.com)
+
+[Cisco Systems Inc.](https://www.cisco.com/c/en/us/index.html)

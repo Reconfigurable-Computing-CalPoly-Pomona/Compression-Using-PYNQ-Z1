@@ -1,4 +1,4 @@
-# Compression-Using-PYNQ-Z1
+# H.264 Video Compression-Using-PYNQ-Z1
 
 ### Overview
 

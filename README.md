@@ -107,6 +107,5 @@ The current state of the project is the Open H.264 video compression is installe
 
 **Project Sponsors:**
 
-[Xilinx Inc.](https://www.xilinx.com)
-
-[Cisco Systems Inc.](https://www.cisco.com/c/en/us/index.html)
+1. [Xilinx Inc.](https://www.xilinx.com "Xilinx Inc.")
+2. [Cisco Systems Inc.](https://www.cisco.com/c/en/us/index.html "Cisco Systems Inc.")

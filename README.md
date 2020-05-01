@@ -3,10 +3,11 @@
 ### Overview
 
 #### Team Members:
-
-  1. Christine Duong: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+ 
+  1. Michael Hicks: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
   
-  2. Michael Hicks: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+  2. Christine Duong: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+  
   
   3. Edward Hwang: Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
   
